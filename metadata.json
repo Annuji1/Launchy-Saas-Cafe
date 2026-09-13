@@ -1,0 +1,6 @@
+{
+  "name": "Launchly",
+  "description": "Modern, premium SaaS project management platform to organize projects, manage tasks, and empower your team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
